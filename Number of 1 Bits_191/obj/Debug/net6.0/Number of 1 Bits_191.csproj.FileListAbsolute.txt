@@ -1,0 +1,15 @@
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\bin\Debug\net6.0\Number of 1 Bits_191.exe
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\bin\Debug\net6.0\Number of 1 Bits_191.deps.json
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\bin\Debug\net6.0\Number of 1 Bits_191.runtimeconfig.json
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\bin\Debug\net6.0\Number of 1 Bits_191.dll
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\bin\Debug\net6.0\Number of 1 Bits_191.pdb
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\obj\Debug\net6.0\Number of 1 Bits_191.csproj.AssemblyReference.cache
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\obj\Debug\net6.0\Number of 1 Bits_191.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\obj\Debug\net6.0\Number of 1 Bits_191.AssemblyInfoInputs.cache
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\obj\Debug\net6.0\Number of 1 Bits_191.AssemblyInfo.cs
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\obj\Debug\net6.0\Number of 1 Bits_191.csproj.CoreCompileInputs.cache
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\obj\Debug\net6.0\Number of 1 Bits_191.dll
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\obj\Debug\net6.0\refint\Number of 1 Bits_191.dll
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\obj\Debug\net6.0\Number of 1 Bits_191.pdb
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\obj\Debug\net6.0\Number of 1 Bits_191.genruntimeconfig.cache
+F:\Education\PlauralSightCourses\problems\problems22062022\Number of 1 Bits_191\obj\Debug\net6.0\ref\Number of 1 Bits_191.dll

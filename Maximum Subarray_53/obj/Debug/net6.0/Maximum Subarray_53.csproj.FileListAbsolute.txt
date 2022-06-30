@@ -1,0 +1,15 @@
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\bin\Debug\net6.0\Maximum Subarray_53.exe
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\bin\Debug\net6.0\Maximum Subarray_53.deps.json
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\bin\Debug\net6.0\Maximum Subarray_53.runtimeconfig.json
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\bin\Debug\net6.0\Maximum Subarray_53.dll
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\bin\Debug\net6.0\Maximum Subarray_53.pdb
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\obj\Debug\net6.0\Maximum Subarray_53.csproj.AssemblyReference.cache
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\obj\Debug\net6.0\Maximum Subarray_53.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\obj\Debug\net6.0\Maximum Subarray_53.AssemblyInfoInputs.cache
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\obj\Debug\net6.0\Maximum Subarray_53.AssemblyInfo.cs
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\obj\Debug\net6.0\Maximum Subarray_53.csproj.CoreCompileInputs.cache
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\obj\Debug\net6.0\Maximum Subarray_53.dll
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\obj\Debug\net6.0\refint\Maximum Subarray_53.dll
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\obj\Debug\net6.0\Maximum Subarray_53.pdb
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\obj\Debug\net6.0\Maximum Subarray_53.genruntimeconfig.cache
+F:\Education\PlauralSightCourses\problems\problems22062022\Maximum Subarray_53\obj\Debug\net6.0\ref\Maximum Subarray_53.dll

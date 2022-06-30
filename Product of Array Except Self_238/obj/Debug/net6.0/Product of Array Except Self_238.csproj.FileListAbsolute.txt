@@ -1,0 +1,15 @@
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\obj\Debug\net6.0\Product of Array Except Self_238.csproj.AssemblyReference.cache
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\obj\Debug\net6.0\Product of Array Except Self_238.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\obj\Debug\net6.0\Product of Array Except Self_238.AssemblyInfoInputs.cache
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\obj\Debug\net6.0\Product of Array Except Self_238.AssemblyInfo.cs
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\obj\Debug\net6.0\Product of Array Except Self_238.csproj.CoreCompileInputs.cache
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\bin\Debug\net6.0\Product of Array Except Self_238.exe
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\bin\Debug\net6.0\Product of Array Except Self_238.deps.json
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\bin\Debug\net6.0\Product of Array Except Self_238.runtimeconfig.json
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\bin\Debug\net6.0\Product of Array Except Self_238.dll
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\bin\Debug\net6.0\Product of Array Except Self_238.pdb
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\obj\Debug\net6.0\Product of Array Except Self_238.dll
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\obj\Debug\net6.0\refint\Product of Array Except Self_238.dll
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\obj\Debug\net6.0\Product of Array Except Self_238.pdb
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\obj\Debug\net6.0\Product of Array Except Self_238.genruntimeconfig.cache
+F:\Education\PlauralSightCourses\problems\problems22062022\Product of Array Except Self_238\obj\Debug\net6.0\ref\Product of Array Except Self_238.dll
